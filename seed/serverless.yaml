@@ -4,4 +4,3 @@ provider:
   name: aws
   stage: dev
   region: us-east-2
-
