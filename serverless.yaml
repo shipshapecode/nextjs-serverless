@@ -1,9 +1,2 @@
-service: nextjs-serverless
-
-provider:
-  name: aws
-  stage: dev
-  region: us-east-2
-
 nextApp:
   component: "@sls-next/serverless-component@3.1.0"
